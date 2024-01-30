@@ -13,6 +13,6 @@ Este é um projeto de Pokédex simples desenvolvido em javascript usando Pokeapi
 - Clique em um Pokémon na lista para ver seus detalhes.
 
 # Screenshots
-![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/Capturas%20de%20Telas/1.png?raw=true)
-![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/Capturas%20de%20Telas/8.png?raw=true)
-![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/Capturas%20de%20Telas/9.png?raw=true)
+![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/1.png?raw=true)
+![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/2.png?raw=true)
+![image](https://github.com/Eduardo-hvs/Pokedex/blob/main/3.png?raw=true)
