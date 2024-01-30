@@ -1,5 +1,5 @@
 # Pokédex
-Este é um projeto de Pokédex simples desenvolvido em javascript usando Pokeapi.
+Este é um projeto de Pokédex simples desenvolvido em javascript usando a blibioteca Vuetify com a aplicação Pokeapi.
 
 # Funcionalidades
 - **Pesquisa de Pokémon:** Pesquise Pokémon por nome.
